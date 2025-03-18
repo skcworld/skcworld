@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=000000&height=150&section=header&text=hi!%20welcome%20to%20skcworld%F0%9F%A4%93)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=140&section=header&text=welcome%20to%20skcworld%F0%9F%A4%93)
 
 <!-- ## Hi there 👋 -->
 
