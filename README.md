@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 
 ## About me
-#### + **Undergraduate Student** at [HYU](https://hanyang.ac.kr/), majoring in **Automotive Engineering**
+#### ● **Undergraduate Student** at [HYU](https://hanyang.ac.kr/), majoring in **Automotive Engineering**
