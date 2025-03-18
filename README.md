@@ -2,3 +2,4 @@
 
 ## About me
 <span style="font-size: 1.25em;"> ● **Undergraduate Student** at [HYU](https://hanyang.ac.kr/), majoring in **Automotive Engineering** </span>
+<span style="font-size: 1.25em;"> ● Interested in **Autonomous Driving**, **Mechanical System Engineering** </span>
