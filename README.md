@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=140&section=header&text=welcome%20to%20skcworld%F0%9F%A4%93)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=120&section=header&text=welcome%20to%20skcworld%F0%9F%A4%93)
 
 <!-- ## Hi there 👋 -->
 
@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is skc
-===========================================================================================================================
+## About me
+#### - Undergraduate Student at [HYU](https://hanyang.ac.kr/), Automotive Engineering
