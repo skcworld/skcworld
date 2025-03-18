@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 -->
 
 
-## About me
+## **About me**
 #### ● **Undergraduate Student** at [HYU](https://hanyang.ac.kr/), majoring in **Automotive Engineering**
